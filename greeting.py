@@ -1,3 +1,6 @@
+print("Insira a hora atual usando o formato 24 horas e seja cumprimentado")
+print("")
+
 currentTime = input("Insira a hora atual: ")
 
 if currentTime.isdigit():
